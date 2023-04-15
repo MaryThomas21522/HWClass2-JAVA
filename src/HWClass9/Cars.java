@@ -18,6 +18,14 @@ public class Cars {
         for (String name : names) {
             System.out.print(name+" ");
         }
+
+        //Loop3
+        System.out.println();
+        int i=0;
+        while (i< names.length){
+            System.out.print(names[i]+" ");
+            i++;
+        }
     }
 }
 
