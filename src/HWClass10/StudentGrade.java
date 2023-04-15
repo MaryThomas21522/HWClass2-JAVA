@@ -15,10 +15,10 @@ public class StudentGrade {
 
         };
         System.out.print(matrix[0][1]+" ");
-        System.out.print(matrix[1][0]+" ");
+        System.out.print(matrix[1][1]+" ");
         System.out.println();
         System.out.print(matrix[0][0]+" ");
-        System.out.print(matrix[1][1]+" ");
+        System.out.print(matrix[1][0]+" ");
 
 
     }
